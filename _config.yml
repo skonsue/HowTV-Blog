@@ -8,7 +8,7 @@ subtitle: 垃圾佬都爱看
 description: 一个爱捡垃圾的博客
 keywords:
 author: skonsue
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
