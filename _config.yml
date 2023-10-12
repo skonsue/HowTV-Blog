@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: HowTV's Blog
 subtitle: ''
-description: ''
+description: '一个爱捡垃圾的博客'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: skonsue
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
